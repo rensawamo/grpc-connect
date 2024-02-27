@@ -79,6 +79,10 @@ $ curl \
 ```
 
 
+10. レスポンス
+```sh
+{"greeting":"Hello, Jane!"}
+```
 
 
 
